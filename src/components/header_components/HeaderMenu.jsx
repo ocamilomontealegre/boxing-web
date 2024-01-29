@@ -11,7 +11,7 @@ const HeaderMenu = () => {
             <li><a href="#">Location</a></li>
             <li><a href="#">Membership</a></li>
             <li><a href="#">Blog</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li className='h-nav-cta'><a href="#">Contact Us</a></li>
           </ul>
         </nav>
       </div>
